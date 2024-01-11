@@ -7,12 +7,12 @@ I have a dog named Theo who if I had the choice I would trade the rest of my lif
 I should probably work out more
 Fun fact: I have an unhealthy obsession with Transformers and if you see me 6 times out of 10 I'm carrying a Transformers figure with me
 
-## Some of my favorute things
- -Color: Aqua
- -Transformer(Character): Optimus Prime
- -Transformer(Design): BBM Blitzwing <3
- -Fnaf Character: Springtrap or Shadow Freddy
- -Favorite PC game: Minecraft
- -Favorite VR game: Beat Saber
- -Favorite Show: How to Train your Dragon: Race to the Edge
+### Some of my favorute things
+  -Color: Aqua
+  -Transformer(Character): Optimus Prime
+  -Transformer(Design): BBM Blitzwing <3
+  -Fnaf Character: Springtrap or Shadow Freddy
+  -Favorite PC game: Minecraft
+  -Favorite VR game: Beat Saber
+  -Favorite Show: How to Train your Dragon: Race to the Edge
 
