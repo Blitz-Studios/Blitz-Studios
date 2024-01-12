@@ -31,4 +31,3 @@ Fun fact: I have an unhealthy obsession with Transformers and if you see me 6 ti
  
  -Favorite Show: How to Train your Dragon: Race to the Edge
  
-
